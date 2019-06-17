@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Client_Application_Tech_Exercise</string>
+    <string name="reg_title">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_data">Data</string>
+    <string name="tnc">tnc</string>
+    <string name="register">Register</string>
+    <string name="landing_title">Price of Gold</string>
+    <string name="refresh">Refresh</string>
+</resources>

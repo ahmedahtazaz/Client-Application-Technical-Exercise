@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorYellow">#FFFF00</color>
+    <color name="colorBg">#FA282a2e</color>
+    <color name="textinput_colorhint">#818283</color>
+    <color name="ripple_color">#aeaeae</color>
+</resources>
